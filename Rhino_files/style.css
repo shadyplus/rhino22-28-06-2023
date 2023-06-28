@@ -20,7 +20,7 @@
 .img-tovar-gkk{position:relative;width:100%;text-align:center}
 .img-tovar-gkk img{display:block;display:block;margin:0 auto;max-width:100%}
 .in-img-gkk{position:relative;display:inline-block;max-width:90%}
-.die-price-gkk{ position:absolute; bottom:-8px; right:-15px;width:108px;height:75px; background:url(img/die-price-gkk.svg) no-repeat; background-size:cover}
+.die-price-gkk{ position:absolute; bottom:-8px; right:-15px;width:108px;height:75px; background-size:cover}
 .desc-tovar-gkk{width: 129px;
     margin-left: 7px;
     margin-top: 44px;}
@@ -46,7 +46,7 @@
 .protect-gkk{text-align:center;margin:25px 0 15px 0;color:#333}
 .in-protect-gkk{position:relative;display:inline-block;vertical-align:top;padding:0 0 0 26px;    font-size: 18px;
     line-height:11px}
-.in-protect-gkk:before{position:absolute;top:50%;left:0;width:17px;height:20px;margin:-11px 0 0 0;content:'';display:block;background:url(img/protectsvg.svg) no-repeat}
+.in-protect-gkk:before{position:absolute;top:50%;left:0;width:17px;height:20px;margin:-11px 0 0 0;content:'';display:block;}
 .bottom-gkk{display:flex;justify-content:space-between;margin-left:-2px}
 .img-bot-gkk{margin-left:22px}
 .img-bot-gkk img{display:block;width:100%}
@@ -93,9 +93,9 @@ background-color: rgba(1,3,10,.68);
 }
 .header .container{position:relative;max-width:1160px;margin:0 auto;padding:0 15px; width:100%;}
 .search-s{position:absolute;top:50%;left:15px;margin:-15px 0 0 0}
-.search-s a{display:block;width:30px;height:30px;background:url(img/ico-s2-3.svg) no-repeat;background-size:cover}
+.search-s a{display:block;width:30px;height:30px;;background-size:cover}
 .menu-s{position:absolute;top:50%;right:15px;margin:-16px 0 0 0}
-.menu-s a{display:block;width:30px;height:30px;background:url(img/menu2-3.svg) no-repeat}
+.menu-s a{display:block;width:30px;height:30px;}
 .logo img{display:block;margin:0 auto; min-height:40px}
 .menu { margin-top:0 !important}
 
